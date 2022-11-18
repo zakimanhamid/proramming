@@ -1,2 +1,6 @@
-ao
+<?php
+
+echo "ao";
+
+
 
